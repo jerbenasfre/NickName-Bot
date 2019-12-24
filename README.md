@@ -19,7 +19,7 @@ Run py -3 -m pip install -U discord.py in command prompt for Windows to get/upda
 
 ## Commands
 
-Commands for bot prefaced with "dj."
+Commands for bot prefaced with "n."
 
 - n.help \- see commands list in discord.
 - dj.prefix new_prefix\- change the prefix command for the bot.
