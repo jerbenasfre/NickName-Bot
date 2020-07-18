@@ -22,8 +22,8 @@ Run py -3 -m pip install -U discord.py in command prompt for Windows to get/upda
 Commands for bot prefaced with "n."
 
 - n.help \- see commands list in discord.
-- dj.prefix new_prefix\- change the prefix command for the bot.
-- dj.change target | nickname \- changes the nickname of target.
-- dj.schange target | nickname \- changes the nickname of target and deletes your text.
-- dj.achange nickname \- changes the nicknames of everyone in the server(with role lower than NickName bot).
-- dj.self_reset \- clears your nickname.
+- n.prefix new_prefix\- change the prefix command for the bot.
+- n.change target | nickname \- changes the nickname of target.
+- n.schange target | nickname \- changes the nickname of target and deletes your text.
+- n.achange nickname \- changes the nicknames of everyone in the server(with role lower than NickName bot).
+- n.self_reset \- clears your nickname.
